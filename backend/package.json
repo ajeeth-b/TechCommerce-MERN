@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "ECommerce application - Tech Mahindra Hiring Challenge.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon  server.js"
+  },
+  "author": "Ajeeth B",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
