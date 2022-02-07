@@ -1,6 +1,6 @@
 # Hackerearth Challenge
 
-Applying/Testing my learning of MERN stack by solving a Hackerearth challenge.
+A HackerEarth challenge attempted to implement/test my learning on the MERN stack.
 
 
 ## TechCommerce
